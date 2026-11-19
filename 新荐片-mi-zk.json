@@ -1,0 +1,90 @@
+# =========================================================
+#  🎦聚合通知：本次共去重清理 1 个源，保留生成 6 个优质源。
+#  🕒更新时间：2026/11/15 05:27:04
+# =========================================================
+/*
+https://r2pan-box.pages.dev/mi/新荐片-mi-zk.json 
+https://ibox.loc.cc/new-jp.json
+
+https://fc-d1.pages.dev/diaoyong/jianpian_open-mod.js
+https://ghfast.top/https://raw.githubusercontent.com/huoxinglive/ibox/refs/heads/main/jianpian_open-mod.js
+
+https://huoxinglive.github.io/ibox/jianpian_open-mod.js   ok
+
+
+*/
+// 摸鱼，嗷呜。
+{
+  "spider": "https://ghfast.top/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar",
+  "lives": [
+    {
+      "name": "内置直播-央卫",
+      "type": 0,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "logo": "https://www.无界.top/tvlogo/{name}.png",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "playerType": 2
+    }
+  ],
+  "sites": [
+    {
+      "key": "Cat_荐片",
+      "name": "☀鉴片🔹极速",#星微
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/huoxinglive/ibox@main/jianpian_open-mod.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+	  "categories": [
+        "电视剧",
+        "电影",
+        "短剧",
+        "综艺",
+        "动漫",
+		"纪录片",
+        "Netflix"
+      ],
+      "类型": "影视"
+    },
+	{
+      "key": "荐片1",
+      "name": "⚔️荐片🔹影视", #vox
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/1118/21/3a899303304e4865b5f4265828a728a6.png",
+      "remark": "【源→VOX】",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "https://cdn.jsdelivr.net/gh/huoxinglive/ibox@main/jianpian.json",
+        "imgUrl": "https://img.zgbkz.com",
+        "sites": "https://api.ztcgi.com"
+      }
+    },
+    {
+      "key": "csp_Jianpian",
+      "name": "☀荐片🔹VIP", #无封面 星微
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "https://7337.kstore.vip/xw/lib/jp.png",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "https://7337.kstore.vip/xw/js/jianpian.json",
+        "sites": "https://api.ztcgi.com"
+      }
+    },
+    {
+      "name": "📀荐片🔹嗷呜",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "JPian",
+      "remark": "【嗷呜▪备份】 速度:9.90s",
+      "jar": "https://jar.fctv.indevs.in/aowu.jar"
+    }
+  ]
+}
