@@ -1,5 +1,5 @@
 https://l.gmbbk.com/upload/47174717.txt
-李小龙的生与死,https://vip.dytt-film.com/20250202/4059_75806e8a/index.m3u8
+
 香港奇案实录,#genre#
 第01-04集,https://vip.ffzy-play10.com/20230603/38052_3402bf16/2000k/hls/mixed.m3u8
 第05-07集,https://vip.ffzy-play10.com/20230603/38053_8c9fd4fa/2000k/hls/mixed.m3u8
@@ -8,6 +8,7 @@ https://l.gmbbk.com/upload/47174717.txt
 第16-18集,https://vip.ffzy-play10.com/20230603/38056_6e023cc0/2000k/hls/mixed.m3u8
 第19-21集,https://vip.ffzy-play10.com/20230603/38057_67273f66/2000k/hls/mixed.m3u8
 第22-25集,https://vip.ffzy-play10.com/20230603/38058_d425491e/2000k/hls/mixed.m3u8
+李小龙的生与死,https://vip.dytt-film.com/20250202/4059_75806e8a/index.m3u8
 侠女传奇,#genre#
 第01集,https://vip.ffzy-play10.com/20230130/21123_3ef0355f/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play10.com/20230130/21124_889e98d9/2000k/hls/mixed.m3u8
