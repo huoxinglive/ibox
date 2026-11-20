@@ -1,40 +1,6 @@
 https://l.gmbbk.com/upload/47174717.txt
 
 
-
-香港奇案实录,#genre#
-第01-04集,https://vip.ffzy-play10.com/20230603/38052_3402bf16/2000k/hls/mixed.m3u8
-第05-07集,https://vip.ffzy-play10.com/20230603/38053_8c9fd4fa/2000k/hls/mixed.m3u8
-第08-10集,https://vip.ffzy-play10.com/20230603/38054_c274f36e/2000k/hls/mixed.m3u8
-第11-15集,https://vip.ffzy-play10.com/20230603/38055_7b0da385/2000k/hls/mixed.m3u8
-第16-18集,https://vip.ffzy-play10.com/20230603/38056_6e023cc0/2000k/hls/mixed.m3u8
-第19-21集,https://vip.ffzy-play10.com/20230603/38057_67273f66/2000k/hls/mixed.m3u8
-第22-25集,https://vip.ffzy-play10.com/20230603/38058_d425491e/2000k/hls/mixed.m3u8
-李小龙的生与死,https://vip.dytt-film.com/20250202/4059_75806e8a/index.m3u8
-
-侠女传奇,#genre#
-第01集,https://vip.ffzy-play10.com/20230130/21123_3ef0355f/2000k/hls/mixed.m3u8
-第02集,https://vip.ffzy-play10.com/20230130/21124_889e98d9/2000k/hls/mixed.m3u8
-第03集,https://vip.ffzy-play10.com/20230130/21121_29703e48/2000k/hls/mixed.m3u8
-第04集,https://vip.ffzy-play10.com/20230130/21126_8b70cd4b/2000k/hls/mixed.m3u8
-第05集,https://vip.ffzy-play10.com/20230130/21130_2b01176b/2000k/hls/mixed.m3u8
-第06集,https://vip.ffzy-play10.com/20230130/21129_1c432cf5/2000k/hls/mixed.m3u8
-第07集,https://vip.ffzy-play10.com/20230130/21128_343c0d9d/2000k/hls/mixed.m3u8
-第08集,https://vip.ffzy-play10.com/20230130/21127_69a9c79e/2000k/hls/mixed.m3u8
-第09集,https://vip.ffzy-play10.com/20230130/21131_f0589a53/2000k/hls/mixed.m3u8
-第10集,https://vip.ffzy-play10.com/20230130/21135_72325415/2000k/hls/mixed.m3u8
-第11集,https://vip.ffzy-play10.com/20230130/21134_9b277637/2000k/hls/mixed.m3u8
-第12集,https://vip.ffzy-play10.com/20230130/21132_1da91725/2000k/hls/mixed.m3u8
-第13集,https://vip.ffzy-play10.com/20230130/21133_e4bcdc25/2000k/hls/mixed.m3u8
-第14集,https://vip.ffzy-play10.com/20230130/21136_7ab9a374/2000k/hls/mixed.m3u8
-第15集,https://vip.ffzy-play10.com/20230130/21137_882c3e16/2000k/hls/mixed.m3u8
-第16集,https://vip.ffzy-play10.com/20230130/21142_9d7892a4/2000k/hls/mixed.m3u8
-第17集,https://vip.ffzy-play10.com/20230130/21139_6de4d741/2000k/hls/mixed.m3u8
-第18集,https://vip.ffzy-play10.com/20230130/21141_cfb5ad0b/2000k/hls/mixed.m3u8
-第19集,https://vip.ffzy-play10.com/20230130/21138_699fe91c/2000k/hls/mixed.m3u8
-第20集,https://vip.ffzy-play10.com/20230130/21140_798bea9a/2000k/hls/mixed.m3u8
-第21集,https://vip.ffzy-play10.com/20230130/21143_d9b73ec4/2000k/hls/mixed.m3u8
-第22集,https://vip.ffzy-play10.com/20230130/21147_75de80dc/2000k/hls/mixed.m3u8
 ﻿龙仇凤血,#genre#
 第01集,https://vip.ffzy-online3.com/20230701/36407_b7c95293/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online3.com/20230701/36408_c649e392/2000k/hls/mixed.m3u8
@@ -7999,3 +7965,11 @@ https://l.gmbbk.com/upload/47174717.txt
 第35集,https://vip.ffzy-play1.com/20221205/28863_dfe3ec1d/index.m3u8
 第36集,https://vip.ffzy-play1.com/20221205/28860_5a6bb55f/index.m3u8
 
+纪录频道,#genre#
+台湾民歌记录片：四十年,https://vip.dytt-live.com/20250506/5880_055e31fa/index.m3u8
+冰血长津湖,https://vip.dytt-live.com/20250325/1211_285ab944/index.m3u8
+1950他们正年轻,https://vip.dytt-film.com/20250120/892_c2aee861/index.m3u8
+掬水月在手,https://vip.dytt-film.com/20250121/1285_944bdd96/index.m3u8
+珠峰清道夫,https://vip.dytt-film.com/20250124/2148_e21e4e58/index.m3u8
+李小龙的生与死,https://vip.dytt-film.com/20250202/4059_75806e8a/index.m3u8
+红旗渠1971,https://vip.dytt-film.com/20250203/4357_167434fa/index.m3u8
